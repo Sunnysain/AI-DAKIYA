@@ -1,4 +1,4 @@
-Here's an updated version of the `README.md` that includes instructions for creating a virtual environment, along with emojis to keep it engaging:
+
 
 ---
 
@@ -25,22 +25,22 @@ To keep your dependencies isolated and avoid conflicts, it's recommended to crea
 
 #### On Windows:
 ```bash
-python -m venv venv
+python -m venv DAKIYA
 ```
 #### On MacOS/Linux:
 ```bash
-python3 -m venv venv
+python3 -m venv DAKIYA
 ```
 
 Activate the virtual environment:
 
 - **Windows**: 
   ```bash
-  venv\Scripts\activate
+  .\DAKIYA\SCRIPTS\ACTIVATE.PS1
   ```
 - **MacOS/Linux**:
   ```bash
-  source venv/bin/activate
+  source DAKIYA/bin/activate
   ```
 
 ### 3. Install Dependencies 📦
@@ -69,12 +69,12 @@ Here's what the directory structure looks like:
 ```
 C:\AI DAKIYA
 ├── DAKIYA
-├── chromedriver.exe
+|
 ├── main.py
 ├── parse.py
 ├── requirements.txt
-├── scrape.py
-└── __pycache__
+|
+└── __scrape.py__
 ```
 
 ## 💻 Connect with Me
