@@ -16,8 +16,7 @@ Welcome to **DAKIYA** – your intelligent, AI-driven tool for extracting and fi
 
 ### 1. Clone the Repository 🛠️
 ```bash
-git clone https://github.com/Sunnysain/DAKIYA.git
-cd DAKIYA
+(https://github.com/Sunnysain/DAKIYA_The-AI-Powered-Web-Scraper.git)
 ```
 
 ### 2. Create a Virtual Environment 🐍
@@ -69,11 +68,9 @@ Here's what the directory structure looks like:
 ```
 C:\AI DAKIYA
 ├── DAKIYA
-|
 ├── main.py
 ├── parse.py
 ├── requirements.txt
-|
 └── __scrape.py__
 ```
 
