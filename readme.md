@@ -11,12 +11,16 @@ Welcome to **DAKIYA** – your intelligent, AI-driven tool for extracting and fi
 - 🤖 **AI-Enhanced Filtering**: The OLLaM model intelligently filters and processes data for meaningful results.
 - 🛠️ **ChromeDriver Integration**: Automate the scraping process with easy browser automation.
 - 📊 **Flexible Output**: Export and save data in customizable formats.
+![Screenshot 2024-09-27 214209](https://github.com/user-attachments/assets/20121b07-9629-4167-8c48-a5b53716bf87)
+![Screenshot 2024-09-27 154133](https://github.com/user-attachments/assets/814d060c-2d2b-455b-8069-aee33a9ff2f8)
+![Screenshot 2024-09-27 154202](https://github.com/user-attachments/assets/4bc236c7-5371-422d-a2e5-c6770cf55d84)
+![Screenshot 2024-09-27 154228](https://github.com/user-attachments/assets/11306038-08ec-4b8a-98ec-9e9df0dbddcb)
 
 ## ⚙️ Setup Guide
 
 ### 1. Clone the Repository 🛠️
 ```bash
-(https://github.com/Sunnysain/DAKIYA_The-AI-Powered-Web-Scraper.git)
+https://github.com/Sunnysain/DAKIYA_The-AI-Powered-Web-Scraper.git
 ```
 
 ### 2. Create a Virtual Environment 🐍
